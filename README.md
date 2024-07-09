@@ -5,15 +5,6 @@ The Java package can be run on a Java compiler. The user can choose to operate a
 All methods have been tested using testcases that compare expected output to actual output of the method. **All tests will work when they are run individually.  However, if tests are run simultaneously, they will fail because some of the tests alter the contents of the files.**	
 The Java package can be run on a Java compiler. The user can choose to operate as either a buyer or a seller.<br />
 **Note -** All csv files that are imported by the seller must be in the following format and belong to the bracketed datatypes - store name (String), item name (String), price of item (double), description of item (String), quantity of item (int)
-
-### Testing
-All methods have been tested using test-cases that compare expected output to actual output of the method. **All tests will work when they are run individually.  However, if tests are run simultaneously, they will fail because some of the tests alter the contents of the files.**	
-**If testShoppingCart()'s inputs are manually entered into the Main class, the test is successful, if ran in RunLocalTest class, a NoSuchElement Exception is thrown. 
-
-
-## Submissions
- 1. Sanjiv - Submitted Vocareum workspace
- 2. Roohee - Submitted Report on Brightspace
 ## Classes
 
 ### 1. **Seller**
